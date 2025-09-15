@@ -1,0 +1,32 @@
+# Core
+torch==1.1.0
+torchvision==0.3.0
+numpy==1.21.5
+scipy==1.7.3
+scikit-learn==1.0.2
+scikit-image==0.19.3
+
+# Image & Video Processing
+opencv-python==4.12.0.88
+Pillow==9.0.0
+imageio==2.31.2
+tifffile==2021.11.2
+
+# Visualization
+matplotlib==3.5.1
+
+# Utilities
+tqdm==4.51.0
+easydict==1.13
+ttach==0.0.3
+joblib==1.3.2
+
+# TensorBoard (optional, for logging)
+tensorboard==2.8.0
+tensorboard-plugin-wit==1.8.1
+tensorboard-data-server==0.6.1
+
+# Custom CUDA ops (if needed in your code)
+channelnorm-cuda==0.0.0
+correlation-cuda==0.0.0
+resample2d-cuda==0.0.0
