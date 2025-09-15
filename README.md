@@ -140,7 +140,7 @@ python test.py
 
 - Visualization of predicted vs. ground truth
 
-  ![image-20250915110433201](./fig/typora-user-images/image-20250915110433201.png)
+![image-20250915110433201](./fig/image-20250915110433201.png)
 
 ![image-20250915110447133](./fig/image-20250915110447133.png)
 
